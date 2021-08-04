@@ -1,0 +1,11 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Puneeth S Portfolio",
+  "main": "index.html",
+  "scripts": {
+    "test": "commit"
+  },
+  "author": "Puneeth S",
+  "license": "ISC"
+}
